@@ -1,9 +1,9 @@
 {
   "name": "react-native-sentry",
-  "homepage": "https://github.com/getsentry/react-native-sentry",
-  "repository": "https://github.com/getsentry/react-native-sentry",
-  "version": "0.40.3",
-  "description": "Official Sentry SDK for react-native",
+  "homepage": "https://github.com/gbmsimoes/react-native-sentry",
+  "repository": "https://github.com/gbmsimoes/react-native-sentry",
+  "version": "0.40.5",
+  "description": "gbmsimoes fork - Sentry SDK for react-native",
   "typings": "lib/Sentry.d.ts",
   "typescript": {
     "definition": "lib/Sentry.d.ts"
